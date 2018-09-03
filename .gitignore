@@ -39,3 +39,4 @@ _tmp
 dist
 build
 _build
+*.icloud
